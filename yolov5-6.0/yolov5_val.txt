@@ -1,0 +1,3 @@
+E:\yolov5-6.0\VOCdevkit/VOC2007/JPEGImages/12037308314_e16fb3a0f7_k.jpg
+E:\yolov5-6.0\VOCdevkit/VOC2007/JPEGImages/14321263043_b76ef054d3_k.jpg
+E:\yolov5-6.0\VOCdevkit/VOC2007/JPEGImages/155815494_800fc9aa32_b.jpg
