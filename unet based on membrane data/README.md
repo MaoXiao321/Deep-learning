@@ -57,9 +57,12 @@ Also, this code should be compatible with Python versions 2.7-3.5.
 ### Run main.py
 
 You will see the predicted results of test image in data/membrane/test
+
 运行main.py训练模型，存储为unet_membrane.hdf5，然后用它去分割data/membrane/test下的图片，得到分割结果。
 
-### Or follow notebook trainUnet，trainUnet中介绍了如何训练unet、保存模型，加载模型进行推理等
+### Or follow notebook trainUnet
+
+trainUnet中介绍了如何训练unet、保存模型，加载模型进行推理等
 
 
 
