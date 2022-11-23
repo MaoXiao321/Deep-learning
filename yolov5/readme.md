@@ -27,6 +27,7 @@ python /project/train/src_repo/yolov5/voc_label.py
 ```
 
 ## 开始训练
+data中新建brass.yaml，参照其他的yml文件写。
 ```
 wget https://github.com/ultralytics/yolov5/releases/download/v6.2/yolov5s.pt
 python /project/train/src_repo/yolov5/train.py  --batch-size 8 --data ./data/brass.yaml --weights ./yolov5s.pt --cfg ./models/yolov5s.yaml --project /project/train/models/ --epochs 2 --workers 0
