@@ -5,3 +5,4 @@
 - unet based on membrane data: 语义分割，unet练习，基于医学细胞数据
 ## pytorch
 - yolov5-6.0: 目标检测，yolov5练习
+- yolov5: https://github.com/ultralytics/yolov5使用记录
